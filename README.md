@@ -11,3 +11,5 @@ This project was done using React and Tailwind. The motivation was a better unde
 ## Mobile Version
 
 ![mobile](./readme_images/mobile.gif)
+
+You can see the live project on this [link](https://GabrielBortolote.github.io/ReactBankApp).
